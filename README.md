@@ -1,5 +1,5 @@
 # About Me
-Hi, my name is Jaime and I am currently studying at Granada's University. I am a last year computer science student who aims to become a **Software Engineer**.
+Hi, my name is Jaime and I am currently studying at University of Granada. I am a last year computer science student who aims to become a **Software Engineer**.
 
 My favorite programming languages are ```C#``` and ```C++``` but I am also learning ```Rust```.
 
@@ -10,6 +10,7 @@ My most featured projects:
     - **[UI/UX Analysis](https://github.com/JaimeUGR/DIU_UwUchads)**: An UI/UX analysis about a web page, with a proposal for improvements.
     - **[Known Scientists Web](https://github.com/JaimeUGR/SIBW_Cientificos)**: A dynamic web page with a wiki-like style about important scientists. It includes a full user system with privileges, comments, dynamic content edition and many more features.
     - **[Java & SQL Mini-App](https://github.com/JaimeUGR/DDSI_P3):** A CLI application that showcases the interaction with MySQL database in a tournament system. It includes database triggers and CRUD operations.
+    - **[Distributed Donation Server](https://github.com/JaimeUGR/Distributed-Donation-Server):** The implementation of a distributed donation server using Java RMI. It provides Remote Objets for ClientTerminals (session sharing) and Servers.
 
 ## Upcoming projects
 - Voxel Engine written in ```Rust```
