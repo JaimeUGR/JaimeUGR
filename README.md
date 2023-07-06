@@ -9,6 +9,7 @@ My most featured projects:
 - **University projects**:
     - **[UI/UX Analysis](https://github.com/JaimeUGR/DIU_UwUchads)**: An UI/UX analysis about a web page, with a proposal for improvements.
     - **[Known Scientists](https://github.com/JaimeUGR)**: A dynamic web page with a wiki-like style about important scientists. It includes a full user system with privileges, comments, dynamic content edition and many more features.
+    - **[Java & SQL Mini-App](https://github.com/JaimeUGR/DDSI_P3):** A CLI application that showcases the interaction with MySQL database in a tournament system. It includes database triggers and CRUD operations.
 
 ## Upcoming projects
 - Voxel Engine written in ```Rust```
