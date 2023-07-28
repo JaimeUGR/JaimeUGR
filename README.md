@@ -8,7 +8,7 @@ My most featured projects:
 - **[Escape The Lightrooms](https://github.com/JaimeUGR/EscapeTheLightrooms):** A WebGL based game where you have to solve a series of puzzles in order to escape.
 - **University projects**:
     - **[UI/UX Analysis](https://github.com/JaimeUGR/DIU_UwUchads)**: An UI/UX analysis about a web page, with a proposal for improvements.
-    - **[Known Scientists Web](https://github.com/JaimeUGR/SIBW_Cientificos)**: A dynamic web page with a wiki-like style about important scientists. It includes a full user system with privileges, comments, dynamic content edition and many more features.
+    - **[Scientists Web](https://github.com/JaimeUGR/SIBW_Cientificos)**: A dynamic web page with a wiki-like style about important scientists. It includes a full user system with privileges, comments, dynamic content edition and many more features.
     - **[Java & SQL Mini-App](https://github.com/JaimeUGR/DDSI_P3):** A CLI application that showcases the interaction with MySQL database in a tournament system. It includes database triggers and CRUD operations.
     - **[Distributed Donation Server](https://github.com/JaimeUGR/Distributed-Donation-Server):** The implementation of a distributed donation server using Java RMI. It provides Remote Objets for ClientTerminals (session sharing) and Servers.
 
