@@ -5,8 +5,8 @@ My favorite programming languages are ```C#``` and ```C++``` but I am also learn
 
 ## Featured projects
 My most featured projects:
-- ⭐ **[Escape The Lightrooms](https://github.com/JaimeUGR/EscapeTheLightrooms):** A WebGL based game where you have to solve a series of puzzles in order to escape.
 - ⭐ **[IntegraMe](https://github.com/JaimeUGR/IntegraMe)**: An accesible student schedule app for Android.
+- ⭐ **[Escape The Lightrooms](https://github.com/JaimeUGR/EscapeTheLightrooms):** A WebGL based game where you have to solve a series of puzzles in order to escape.
 - **Other university projects**:
     - **[UI/UX Analysis](https://github.com/JaimeUGR/DIU_UwUchads)**: An UI/UX analysis about a web page, with a proposal for improvements.
     - **[Scientists Web](https://github.com/JaimeUGR/SIBW_Cientificos)**: A dynamic web page with a wiki-like style about important scientists. It includes a full user system with privileges, comments, dynamic content edition and many more features.
