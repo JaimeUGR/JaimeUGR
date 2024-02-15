@@ -14,7 +14,7 @@ My most featured projects:
     - **[Distributed Donation Server](https://github.com/JaimeUGR/Distributed-Donation-Server):** The implementation of a distributed donation server using Java RMI. It provides Remote Objets for ClientTerminals (session sharing) and Servers.
 
 ## Now
-🔭 I’m currently working my bachelor's thesis, a private, secure & anonymous instant-messaging application ⚡.
+🔭 I’m currently working on my bachelor's thesis, a private, secure & anonymous instant-messaging application ⚡.
 
 ## Upcoming projects
 - Voxel Engine written in ```Rust```
